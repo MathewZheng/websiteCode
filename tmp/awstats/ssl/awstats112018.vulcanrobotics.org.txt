@@ -1,0 +1,454 @@
+AWSTATS DATA FILE 7.6 (build 20161204)
+# If you remove this file, all statistics for date 201811 will be lost/reset.
+# Last config file used to build this data file was /home/vulcpwni/tmp/awstats/ssl/awstats.vulcanrobotics.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2019                
+POS_TIME 2684                
+POS_VISITOR 8664                
+POS_DAY 10862               
+POS_DOMAIN 3421                
+POS_LOGIN 3726                
+POS_ROBOT 3881                
+POS_WORMS 4526                
+POS_EMAILSENDER 4657                
+POS_EMAILRECEIVER 4800                
+POS_SESSION 11307               
+POS_SIDER 11454               
+POS_FILETYPES 4935                
+POS_DOWNLOADS 5120                
+POS_OS 5168                
+POS_BROWSER 5321                
+POS_SCREENSIZE 6965                
+POS_UNKNOWNREFERER 7039                
+POS_UNKNOWNREFERERBROWSER 7341                
+POS_ORIGIN 7423                
+POS_SEREFERRALS 7558                
+POS_PAGEREFS 7702                
+POS_SEARCHWORDS 7850                
+POS_KEYWORDS 8002                
+POS_MISC 2348                
+POS_ERRORS 8061                
+POS_CLUSTER 3582                
+POS_SIDER_404 8169                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20181201015010 27 4829 10645567123703
+FirstTime 0
+LastTime 20181130030447
+LastUpdate 20181201073310 27 0 26 0 0
+TotalVisits 53                  
+TotalUnique 49                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 56                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+TotalMisc 0 0 0
+FlashSupport 0 0 0
+JavascriptDisabled 0 0 0
+QuickTimeSupport 0 0 0
+DirectorSupport 0 0 0
+RealPlayerSupport 0 0 0
+PDFSupport 0 0 0
+AddToFavourites 0 2 0
+JavaEnabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 2 2 16101 25 40 2570516
+1 0 18 2470304 32 48 4134672
+2 0 0 0 24 37 495883
+3 27 44 1438828 21 25 3129426
+4 0 9 1235152 40 52 381481
+5 0 0 0 36 51 4024712
+6 2 2 7344 39 66 16466424
+7 26 31 196632 30 59 1237028
+8 1 19 2470304 31 41 357517
+9 2 2 0 34 56 819343
+10 1 1 13038 34 46 1946378
+11 1 10 1245005 49 58 501592
+12 0 0 0 30 53 6985676
+13 0 0 0 38 53 2579764
+14 0 0 0 34 74 14287125
+15 1 1 9853 47 64 2975864
+16 0 0 0 30 40 7687652
+17 17 21 140252 61 77 558728
+18 2 2 6124 65 74 806961
+19 0 9 1235152 58 77 5501399
+20 1 1 4281 41 54 804666
+21 1 1 0 38 51 1037337
+22 0 0 0 26 33 304949
+23 0 0 0 17 28 8000607
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 7
+cn 70 87 540560
+us 6 60 7442866
+de 4 4 0
+ua 2 2 26077
+ru 1 1 4281
+au 1 1 4282
+ca 0 18 2470304
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 13
+AhrefsBot/ 587 1612452 20181123053931 6
+SeznamBot/ 188 56349642 20181130221356 68
+bingbot/ 136 9063302 20181130231150 39
+Googlebot/ 111 475389 20181130171808 24
+YandexBot/ 74 122879 20181130121925 40
+robot 39 0 20181130193932 0
+MJ12bot/ 26 60647 20181126043643 4
+archive\.org_bot 16 1251908 20181121175519 5
+bingpreview 12 625747 20181115140244 0
+bot[\s_+:,\.\;\/\\-] 9 88677 20181129131943 0
+YandexImages/ 7 17885435 20181129060206 0
+Googlebot\-Image/ 6 24224 20181125135457 0
+Applebot/ 4 8718 20181112124719 2
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 7
+jpeg 24 3032464 0 0
+html 79 245293 0 0
+php 1 1153 0 0
+otf 4 78464 0 0
+js 9 203884 0 0
+jpg 48 6848752 0 0
+css 8 78360 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 7
+ios_iphone 34 26
+linux 1 1
+win10 41 5
+win8 1 1
+Unknown 37 1
+win7 6 6
+linuxandroid 53 44
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 68
+chrome45.0.5770.795 1 1
+chrome54.0.8885.281 1 1
+chrome55.0.7311.380 1 1
+chrome52.0.6226.315 1 1
+chrome47.0.2481.18 1 1
+chrome57.0.2869.695 1 1
+chrome43.0.4296.578 1 1
+mozilla 1 1
+chrome51.0.2249.373 1 1
+chrome50.0.1447.127 1 1
+chrome40.0.8133.961 1 1
+chrome39.0.5041.907 1 1
+chrome41.0.7793.572 1 1
+chrome52.0.1291.271 1 1
+firefox60.0 1 1
+chrome51.0.5833.710 1 1
+chrome46.0.1219.607 1 1
+chrome60.0.9845.525 1 1
+chrome51.0.3993.18 1 1
+chrome50.0.2100.176 1 1
+chrome42.0.1462.925 1 1
+chrome58.0.1669.165 1 1
+chrome46.0.5575.730 1 1
+chrome44.0.7290.23 1 1
+chrome40.0.3993.707 1 1
+chrome39.0.2996.426 1 1
+chrome43.0.6781.243 1 1
+chrome41.0.7593.285 1 1
+chrome50.0.5083.32 1 0
+chrome44.0.8205.751 1 1
+cloudflare 36 0
+chrome49.0.6066.448 1 1
+chrome41.0.7419.935 1 1
+chrome39.0.4206.960 1 1
+chrome40.0.2214.85 4 4
+chrome59.0.4673.718 8 4
+chrome41.0.6770.260 8 4
+chrome52.0.6950.166 1 1
+chrome46.0.4598.879 1 1
+chrome56.0.6375.874 1 1
+chrome49.0.4056.231 1 1
+chrome34.0.1847.137 1 1
+chrome39.0.9601.486 1 1
+chrome41.0.4247.153 1 1
+chrome59.0.8885.904 1 1
+chrome47.0.3609.691 1 1
+chrome60.0.3390.941 1 1
+chrome39.0.7267.82 1 1
+chrome51.0.7366.116 8 4
+chrome47.0.8676.713 1 1
+chrome51.0.9381.712 1 1
+chrome49.0.1467.468 1 1
+chrome47.0.3059.234 1 1
+chrome54.0.6381.662 1 1
+chrome66.0.3359.117 4 4
+chrome54.0.8823.490 1 1
+chrome53.0.5817.520 8 4
+chrome57.0.8331.996 1 1
+chrome56.0.1202.49 1 1
+chrome46.0.9900.869 1 1
+chrome62.0.3202.94 2 2
+chrome40.0.8668.119 1 1
+chrome60.0.3168.78 1 1
+chrome52.0.2743.116 36 0
+chrome52.0.5375.509 1 1
+chrome67.0.3396.18 1 1
+chrome40.0.5080.436 1 1
+chrome52.0.7125.8 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+Mozilla/5.0_(compatible;_CloudFlare-AlwaysOnline/1.0;__http://www.cloudflare.com/always-online)_AppleWebKit/534.34 20181125044929
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20181107154039
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 70 70
+From1 0 0
+From2 0 0
+From3 0 0
+From4 14 103
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+404 23 0
+508 8 19016
+301 9 2214
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 6
+/wp-login.php 2 https://vulcanrobotics.org/wp-login.php
+/favicon.png 2 -
+/.well-known/security.txt 1 -
+/sitemap.xml 1 -
+/adfs/ls/idpinitiatedsignon 1 -
+/.well-known/assetlinks.json 16 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 56
+220.243.135.113 5 9 90833 20181105173708
+220.243.136.123 4 4 17925 20181122075815
+138.246.253.5 4 4 0 20181129093417
+220.243.136.25 4 8 86398 20181122075824
+220.243.136.121 4 8 86398 20181130030447
+220.243.135.68 4 4 5462 20181130030435
+220.243.135.5 4 8 86398 20181130030437
+220.243.135.186 4 4 16148 20181122075817
+220.243.136.113 3 3 8925 20181105173707
+220.243.135.60 3 3 8752 20181122075816
+220.243.136.185 3 3 4903 20181130030436
+220.243.135.176 2 2 11784 20181105173707
+220.243.136.60 2 2 7864 20181122075817
+220.243.136.249 2 2 7576 20181122075816
+178.159.37.55 2 2 26077 20181123101329
+220.243.135.50 1 1 3914 20181105173707
+108.178.61.60 1 1 3062 20181128061820
+220.243.136.176 1 1 3950 20181105173707
+220.243.135.123 1 1 5912 20181122075828
+220.243.136.52 1 1 1882 20181130030435
+220.243.136.151 1 1 3592 20181122075815
+220.243.135.105 1 1 647 20181130030438
+174.138.53.190 1 1 9853 20181107154039
+220.243.136.5 1 1 1147 20181130030434
+220.243.136.186 1 1 397 20181122075815
+162.158.65.244 0 9 1235152 
+144.217.99.65 0 18 2470304 
+45.79.4.102 1 1 3062 20181109181520
+220.243.135.165 1 1 2280 20181122075817
+220.243.136.165 0 1 33224 
+220.243.135.168 1 1 2067 20181130030437
+167.114.124.133 0 18 2470304 
+162.158.64.178 0 9 1235152 
+220.243.135.241 1 1 5862 20181130030435
+46.235.70.138 1 1 4281 20181106200055
+220.243.135.151 1 1 3610 20181122075817
+220.243.135.194 1 1 861 20181130030435
+220.243.136.115 1 1 1176 20181130030439
+220.243.135.185 1 1 1455 20181130030435
+162.158.64.82 0 9 1235152 
+220.243.136.23 1 1 2790 20181105173706
+220.243.136.194 1 1 813 20181130030434
+220.243.135.149 1 1 3907 20181105173706
+220.243.135.102 1 1 1807 20181122075817
+107.6.183.164 1 1 3062 20181111184005
+220.243.135.121 1 1 1423 20181130030440
+66.240.192.138 1 1 9853 20181109114222
+220.243.135.131 1 1 1609 20181130030435
+220.243.136.239 1 1 4442 20181105173707
+162.158.70.144 0 9 1235152 
+202.62.47.161 1 1 4282 20181110064717
+220.243.136.112 1 1 1147 20181122075818
+220.243.136.59 1 1 1573 20181130030436
+184.154.189.92 1 1 3062 20181103005417
+220.243.136.212 1 1 3795 20181105173706
+220.243.136.50 1 1 5912 20181105173707
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 18
+20181103 1 10 1238214 1
+20181105 17 21 140252 10
+20181106 1 1 4281 1
+20181107 1 1 9853 1
+20181108 1 1 0 1
+20181109 2 2 12915 2
+20181110 1 10 1239434 1
+20181111 1 1 3062 1
+20181114 1 1 0 1
+20181115 1 1 13039 1
+20181117 0 9 1235152 0
+20181120 0 18 2470304 0
+20181122 27 50 2666936 14
+20181123 1 1 13038 1
+20181125 0 9 1235152 0
+20181128 1 1 3062 1
+20181129 1 1 0 1
+20181130 27 35 203676 16
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 1
+0s-30s 53
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 49
+/ 14 44202 14 10
+/fonts/bebas-neue.otf 4 78464 0 0
+/includes/footer.html 4 2336 0 1
+/includes/header.html 4 3524 0 3
+/off-season/index.php/2015/07/20/we-built-a-chassis/ 4 34640 4 4
+/off-season/index.php/2015/08/09/you-asked-for-it-and-here-it-is-vulcan-robotics-vlog-2/ 2 7743 1 1
+/off-season/index.php/category/uncategorized/ 2 11824 2 2
+/off-season/index.php/2015/08/ 2 8884 1 2
+/off-season/index.php/2015/08/09/here-is-our-vlog/ 2 7812 1 1
+/off-season/index.php/2015/08/23/a-new-week-calls-for-a-new-vlog-here-is-vlog-3/ 2 7900 2 1
+/off-season/ 2 11722 1 2
+/off-season/index.php/feed/ 2 5580 2 1
+/off-season/index.php/2015/09/11/its-happening/ 2 7589 1 1
+/off-season/index.php/2015/08/23/youve-been-waiting-long-enough-here-is-vlog-4/ 2 7828 1 2
+/sponsors.html 2 2294 2 2
+/competition-SuperRegionals.html 1 1423 1 1
+/off-season/index.php/2015/07/04/new-blog/ 1 3729 0 1
+/off-season/index.php/2015/07/18/drivetrain-update/ 1 4160 0 1
+/off-season/index.php/2015/07/18/robot-cart/ 1 3847 1 0
+/competition-norcal2016.html 1 647 1 1
+/2014-2015.html 1 1807 1 1
+/off-season/index.php/2015/07/23/parts-are-here/ 1 4004 0 0
+/2017-2018.html 1 2280 1 1
+/competition-worlds2018.html 1 2033 1 0
+/2015-2016.html 1 1754 0 0
+/2016-2017.html 1 2090 0 0
+/competition-DalyCity.html 1 1455 1 1
+/off-season/index.php/page/2/ 1 4435 0 0
+/off-season/wp-login.php 1 1153 0 1
+/off-season/index.php/2015/08/23/22-days-till-kick-off/ 1 3901 0 0
+/competition-norcal2017.html 1 1176 1 1
+/off-season/index.php/2015/09/ 1 3592 1 1
+/competition-saratoga2015.html 1 1402 0 0
+/competition-norcal2018.html 1 2067 1 1
+/competition-saratoga2014.html 1 1072 0 0
+/competition-google.html 1 955 0 1
+/2017-Off-Season.html 1 7935 1 0
+/our-team.html 1 4079 1 0
+/competition-cisco.html 1 1881 0 1
+/competition-google2017.html 1 1856 0 0
+/competition-worlds.html 1 813 1 1
+/off-season/index.php/comments/feed/ 1 397 1 1
+/competition-elkgrove.html 1 1573 1 1
+/competition-norcal.html 1 1166 1 0
+/off-season/index.php/author/vulcanroboticsteam/ 1 5924 1 0
+/competition-west2018.html 1 1882 1 1
+/competition-playspace2.html 1 1609 1 1
+/competition-dalyCity2017.html 1 861 1 1
+/off-season/index.php/tag/blog/ 1 3610 1 1
+END_SIDER

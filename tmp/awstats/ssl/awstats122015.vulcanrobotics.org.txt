@@ -1,0 +1,280 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201512 will be lost/reset.
+# Last config file used to build this data file was /home/vulcpwni/tmp/awstats/ssl/awstats.vulcanrobotics.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2019                
+POS_TIME 2684                
+POS_VISITOR 6775                
+POS_DAY 7082                
+POS_DOMAIN 3363                
+POS_LOGIN 3592                
+POS_ROBOT 3747                
+POS_WORMS 4226                
+POS_EMAILSENDER 4357                
+POS_EMAILRECEIVER 4500                
+POS_SESSION 7302                
+POS_SIDER 7458                
+POS_FILETYPES 4635                
+POS_DOWNLOADS 4825                
+POS_OS 4913                
+POS_BROWSER 5035                
+POS_SCREENSIZE 5185                
+POS_UNKNOWNREFERER 5259                
+POS_UNKNOWNREFERERBROWSER 5476                
+POS_ORIGIN 5558                
+POS_SEREFERRALS 5690                
+POS_PAGEREFS 5834                
+POS_SEARCHWORDS 5982                
+POS_KEYWORDS 6134                
+POS_MISC 2348                
+POS_ERRORS 6193                
+POS_CLUSTER 3448                
+POS_SIDER_404 6303                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20160101013346 19 3329 10815605507069
+FirstTime 0
+LastTime 20151211033915
+LastUpdate 20160101070825 19 0 18 0 0
+TotalVisits 4                   
+TotalUnique 3                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 7                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 1 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 10 1435797 10 15 211223
+1 0 0 0 33 47 6413819
+2 0 0 0 17 44 1560398
+3 6 6 145602 13 25 268838
+4 0 0 0 18 26 169630
+5 0 0 0 10 14 170541
+6 0 9 1235152 11 18 264445
+7 0 27 3705456 3 5 66728
+8 0 0 0 30 47 921317
+9 0 0 0 8 15 241226
+10 0 0 0 19 29 456716
+11 0 0 0 9 12 46205
+12 0 0 0 7 11 54070
+13 0 0 0 12 18 136713
+14 0 0 0 4 11 235053
+15 0 0 0 10 17 85931
+16 0 0 0 54 72 1010061
+17 4 11 2321980 1 7 170333
+18 0 0 0 18 42 928397
+19 6 8 4808992 9 15 202099
+20 0 0 0 19 25 420412
+21 4 25 2292120 9 16 271124
+22 0 0 0 12 20 220389
+23 0 0 0 14 21 160679
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+us 20 96 15945099
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 9
+bot[\s_+:,\.\;\/\\-] 328 9631599 20151231105943 102
+googlebot 97 1917467 20151230084654 20
+robot 31 0 20151231020336 0
+php 28 2046638 20151231223914 0
+google[_+\s]web[_+\s]preview 18 656514 20151203185934 0
+spider 14 128512 20151230085356 0
+googlebot\-image 6 139531 20151225040721 0
+netcraft 3 23760 20151218100308 0
+checker 1 0 20151226023808 1
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 7
+css 3 172372 0 0
+png 8 2053156 0 0
+html 19 314030 0 0
+js 5 175324 0 0
+jpg 42 10892585 0 0
+jpeg 18 2274348 0 0
+otf 1 63284 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/FundraisingLetter%20(1).pdf 4 0 490560
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 5
+winnt 10 0
+win8.1 25 4
+Unknown 36 0
+linux 6 6
+win7 19 10
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 5
+chrome46.0.2490.86 25 4
+firefox42.0 10 0
+chrome47.0.2526.73 19 10
+firefox14.0.1 6 6
+cloudflare 36 0
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 1
+Mozilla/5.0_(compatible;_CloudFlare-AlwaysOnline/1.0;__http://www.cloudflare.com/always-online)_AppleWebKit/534.34 20151227070239
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 7 7
+From1 0 0
+From2 0 0
+From3 0 0
+From4 13 89
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+206 12 126502
+301 22 738
+404 11 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 4
+/saratoga.html 6 -
+/wp-content/uploads/2015/01/DSCF3036-e1421213132609-1170x500.jpg 3 -
+/favicon.png 1 https://vulcanrobotics.org/
+/apple-app-site-association 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 7
+162.230.115.40 10 19 7130972 20151206190921
+69.58.178.57 6 6 145602 20151211033915
+108.83.21.49 4 25 2292120 20151207214157
+162.158.65.58 0 18 2470304 
+162.158.65.59 0 9 1235152 
+71.132.128.65 0 10 1435797 
+162.158.64.143 0 9 1235152 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 7
+20151206 10 28 8366124 2
+20151207 4 25 2292120 1
+20151210 0 10 1435797 0
+20151211 6 6 145602 1
+20151213 0 9 1235152 0
+20151220 0 9 1235152 0
+20151227 0 9 1235152 0
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+0s-30s 3
+2mn-5mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 11
+/off-season/ 5 177470 2 1
+/includes/footer.html 3 3471 0 2
+/includes/header.html 3 7482 0 0
+/ 2 15510 1 0
+/off-season/index.php/author/vulcanroboticsteam/ 1 36083 0 0
+/off-season/index.php/2015/09/11/its-happening/ 1 11475 0 0
+/fonts/bebas-neue.otf 1 63284 0 0
+/saratoga2015.html 1 4372 0 0
+/off-season/index.php/category/uncategorized/ 1 35902 0 1
+/2015-2016.html 1 3537 1 0
+/off-season/index.php/page/2/ 1 18728 0 0
+END_SIDER

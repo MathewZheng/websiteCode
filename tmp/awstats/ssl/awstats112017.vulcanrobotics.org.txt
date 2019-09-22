@@ -1,0 +1,301 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201711 will be lost/reset.
+# Last config file used to build this data file was /home/vulcpwni/tmp/awstats/ssl/awstats.vulcanrobotics.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2019                
+POS_TIME 2684                
+POS_VISITOR 6812                
+POS_DAY 7216                
+POS_DOMAIN 3355                
+POS_LOGIN 3633                
+POS_ROBOT 3788                
+POS_WORMS 4199                
+POS_EMAILSENDER 4330                
+POS_EMAILRECEIVER 4473                
+POS_SESSION 7466                
+POS_SIDER 7632                
+POS_FILETYPES 4608                
+POS_DOWNLOADS 4747                
+POS_OS 4795                
+POS_BROWSER 4913                
+POS_SCREENSIZE 5116                
+POS_UNKNOWNREFERER 5190                
+POS_UNKNOWNREFERERBROWSER 5458                
+POS_ORIGIN 5570                
+POS_SEREFERRALS 5703                
+POS_PAGEREFS 5847                
+POS_SEARCHWORDS 5995                
+POS_KEYWORDS 6147                
+POS_MISC 2348                
+POS_ERRORS 6206                
+POS_CLUSTER 3489                
+POS_SIDER_404 6328                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20171201005458 37 7333 11567854718049
+FirstTime 0
+LastTime 20171129132138
+LastUpdate 20171201072248 37 0 36 0 0
+TotalVisits 8                   
+TotalUnique 5                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 10                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavaEnabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 2 0
+TotalMisc 0 0 0
+RealPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+DirectorSupport 0 0 0
+QuickTimeSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 20 27 67624
+1 0 0 0 9 28 6946658
+2 0 0 0 21 38 9537665
+3 0 0 0 10 22 2893420
+4 1 1 0 11 26 266681
+5 0 0 0 36 44 2978350
+6 0 0 0 5 20 15630
+7 0 0 0 12 39 85971
+8 1 1 0 14 34 3412150
+9 19 56 184316 20 48 332843
+10 0 0 0 14 25 51585
+11 0 0 0 25 42 6817405
+12 3 3 39218 17 32 563661
+13 2 2 0 4 11 18052
+14 3 3 14240 21 37 214667
+15 2 2 8316 4 16 56887
+16 3 3 63193 8 28 23617
+17 0 0 0 25 47 137158
+18 0 0 0 11 34 67914
+19 0 0 0 16 32 58758
+20 0 27 3705456 18 43 232569
+21 0 0 0 6 22 12956
+22 0 18 2470304 10 22 195738
+23 0 0 0 6 21 3227180
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 5
+ca 19 56 184316
+gb 5 5 22556
+de 4 4 0
+ru 3 3 39218
+us 3 48 6238953
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 7
+bot[\s_+:,\.\;\/\\-] 539 1480539 20171130183123 192
+googlebot 62 305175 20171130200346 19
+robot 35 420 20171130105617 0
+spider 25 282057 20171130152819 0
+[\s_+:,\.\;\/\\-]bot 14 36099417 20171130120447 0
+googlebot\-image 8 32548 20171130184508 0
+netcraft 1 8967 20171114092420 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 4
+jpeg 15 1895290 0 0
+html 34 194668 0 0
+js 37 114615 0 0
+jpg 30 4280470 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 5
+Unknown 48 3
+winnt 57 20
+linux 3 3
+win7 7 7
+java 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 8
+chrome59.0.3071.115 3 3
+opera44.0.2510.1449 3 3
+cloudflare 45 0
+chrome40.0.2214.85 4 4
+firefox54.0 2 2
+chrome52.0.2743.116 55 18
+Unknown 1 1
+mozilla 3 3
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+Mozilla/5.0_(compatible;_ips-agent) 20171102164526
+Mozilla/5.0_(compatible;_CloudFlare-AlwaysOnline/1.0;__http://www.cloudflare.com/always-online)_AppleWebKit/534.34 20171130205448
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+Java/1.8.0_111 20171109092902
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 26 26
+From1 0 0
+From2 0 0
+From3 0 0
+From4 8 90
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+405 1 42
+301 2 202
+302 2 0
+404 46 0
+421 1 322
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 7
+/apple-app-site-association 14 -
+/ 2 -
+/.well-known/assetlinks.json 14 -
+/saratoga2015.html 1 -
+/.well-known/apple-app-site-association 13 -
+/downloader/ 1 -
+/favicon.png 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 10
+192.99.67.12 19 56 184316 20171109092902
+185.94.193.75 5 5 22556 20171120152931
+138.246.253.19 4 4 0 20171129132138
+69.58.178.57 3 3 63193 20171102164526
+146.185.223.45 3 3 39218 20171103122015
+162.158.64.183 0 9 1235152 
+162.158.65.77 0 9 1235152 
+162.158.64.69 0 9 1235152 
+162.158.65.176 0 9 1235152 
+162.158.65.42 0 9 1235152 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 9
+20171102 3 12 1298345 1
+20171103 4 4 39218 2
+20171109 20 66 1419468 2
+20171116 0 9 1235152 0
+20171117 1 1 0 1
+20171120 5 5 22556 1
+20171123 0 9 1235152 0
+20171129 1 1 0 1
+20171130 0 9 1235152 0
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 3
+30mn-1h 1
+30s-2mn 1
+0s-30s 6
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 18
+/ 7 11866 4 5
+/off-season/index.php/2015/07/18/drivetrain-update/ 5 20855 0 1
+/off-season/index.php/2015/07/20/we-built-a-chassis/ 4 43497 1 1
+/off-season/ 3 47216 3 0
+/off-season/index.php/page/2/ 2 23165 0 1
+/off-season/index.php/2015/08/23/22-days-till-kick-off/ 1 3902 0 0
+/off-season/index.php/2015/08/09/you-asked-for-it-and-here-it-is-vulcan-robotics-vlog-2/ 1 3872 0 0
+/off-season/index.php/author/vulcanroboticsteam/ 1 5924 0 0
+/off-season/index.php/2015/09/11/its-happening/ 1 3794 0 0
+/off-season/index.php/2015/09/ 1 3591 0 0
+/off-season/index.php/2015/08/23/a-new-week-calls-for-a-new-vlog-here-is-vlog-3/ 1 3948 0 0
+/includes/header.html 1 856 0 0
+/off-season/index.php/2015/07/23/parts-are-here/ 1 4003 0 0
+/off-season/index.php/2015/08/09/here-is-our-vlog/ 1 3904 0 0
+/includes/footer.html 1 584 0 0
+/off-season/index.php/2015/08/23/youve-been-waiting-long-enough-here-is-vlog-4/ 1 3914 0 0
+/off-season/index.php/category/uncategorized/ 1 5912 0 0
+/off-season/index.php/2015/08/30/the-countdown-to-kick-off-has-officially-started/ 1 3865 0 0
+END_SIDER

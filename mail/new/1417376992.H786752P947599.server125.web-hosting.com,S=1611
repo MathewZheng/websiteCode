@@ -1,0 +1,41 @@
+Return-path: <>
+Envelope-to: vulcpwni@server125.web-hosting.com
+Delivery-date: Sun, 30 Nov 2014 14:49:52 -0500
+Received: from mailnull by server125.web-hosting.com with local (Exim 4.82)
+	id 1XvAVE-003yVg-M1
+	for vulcpwni@server125.web-hosting.com; Sun, 30 Nov 2014 14:49:52 -0500
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@server125.web-hosting.com>
+To: vulcpwni@server125.web-hosting.com
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1XvAVE-003yVg-M1@server125.web-hosting.com>
+Date: Sun, 30 Nov 2014 14:49:52 -0500
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  "Relaying not permitted"
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from vulcpwni by server125.web-hosting.com with local (Exim 4.82)
+	(envelope-from <vulcpwni@server125.web-hosting.com>)
+	id 1XvAVE-003yVZ-Jo
+	for bobowitzbob@gmail.com; Sun, 30 Nov 2014 14:49:52 -0500
+To: bobowitzbob@gmail.com
+Subject: [Vulcan Robotics] Your username and password
+Date: Sun, 30 Nov 2014 19:49:52 +0000
+Return-Path: <wordpress@vulcanrobotics.org>
+From: WordPress <wordpress@vulcanrobotics.org>
+Message-ID: <d950135ba2acfa7e3fa2e601254ea9c7@vulcanrobotics.org>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.7 (https://github.com/PHPMailer/PHPMailer/)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Sender:  <vulcpwni@server125.web-hosting.com>
+
+Username: bobowitz
+Password: KO7%FzId8H!hkoCDyN5v
+https://vulcanrobotics.org/wp-login.php
+

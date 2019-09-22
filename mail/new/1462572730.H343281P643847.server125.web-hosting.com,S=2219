@@ -1,0 +1,52 @@
+Return-path: <>
+Envelope-to: vulcpwni@server125.web-hosting.com
+Delivery-date: Fri, 06 May 2016 18:12:10 -0400
+Received: from mailnull by server125.web-hosting.com with local (Exim 4.86_1)
+	id 1aynyk-002hUX-9E
+	for vulcpwni@server125.web-hosting.com; Fri, 06 May 2016 18:12:10 -0400
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@server125.web-hosting.com>
+To: vulcpwni@server125.web-hosting.com
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1aynyk-002hUX-9E@server125.web-hosting.com>
+Date: Fri, 06 May 2016 18:12:10 -0400
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  "Relaying not permitted"
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from vulcpwni by server125.web-hosting.com with local (Exim 4.86_1)
+	(envelope-from <vulcpwni@server125.web-hosting.com>)
+	id 1aynyk-002hUU-80
+	for vulcanroboticsteam@gmail.com; Fri, 06 May 2016 18:12:10 -0400
+To: vulcanroboticsteam@gmail.com
+Subject: [Off-Season Blog] Your site has updated to WordPress 4.2.8
+Date: Fri, 6 May 2016 22:12:10 +0000
+Return-Path: <wordpress@vulcanrobotics.org>
+From: WordPress <wordpress@vulcanrobotics.org>
+Message-ID: <6b1e68d57aba3fdf41d0b38b084be6d1@vulcanrobotics.org>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.7 (https://github.com/PHPMailer/PHPMailer/)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Sender:  <vulcpwni@server125.web-hosting.com>
+
+Howdy! Your site at https://vulcanrobotics.org/off-season has been updated automatically to WordPress 4.2.8.
+
+For more on version 4.2.8, see the About WordPress screen:
+https://vulcanrobotics.org/off-season/wp-admin/about.php
+
+WordPress 4.5.2 is also now available. Updating is easy and only takes a few moments:
+https://vulcanrobotics.org/off-season/wp-admin/update-core.php
+
+If you experience any issues or need support, the volunteers in the WordPress.org support forums may be able to help.
+https://wordpress.org/support/
+
+Keeping your site updated is important for security. It also makes the internet a safer place for you and your readers.
+
+The WordPress Team
+

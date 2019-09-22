@@ -1,0 +1,56 @@
+Return-path: <>
+Envelope-to: vulcpwni@server125.web-hosting.com
+Delivery-date: Sun, 05 Jul 2015 00:05:22 -0400
+Received: from mailnull by server125.web-hosting.com with local (Exim 4.82)
+	id 1ZBbBC-000rv1-SA
+	for vulcpwni@server125.web-hosting.com; Sun, 05 Jul 2015 00:05:22 -0400
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@server125.web-hosting.com>
+To: vulcpwni@server125.web-hosting.com
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1ZBbBC-000rv1-SA@server125.web-hosting.com>
+Date: Sun, 05 Jul 2015 00:05:22 -0400
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  "Relaying not permitted"
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from vulcpwni by server125.web-hosting.com with local (Exim 4.82)
+	(envelope-from <vulcpwni@server125.web-hosting.com>)
+	id 1ZBbBC-000ruz-Pw
+	for vulcanroboticsteam@gmail.com; Sun, 05 Jul 2015 00:05:22 -0400
+To: vulcanroboticsteam@gmail.com
+Subject: [Off-Season Blog] Please moderate: "New blog!"
+Date: Sun, 5 Jul 2015 04:05:22 +0000
+Return-Path: <wordpress@vulcanrobotics.org>
+From: WordPress <wordpress@vulcanrobotics.org>
+Message-ID: <8b0eb21387bae2403bd017066b41432c@vulcanrobotics.org>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.7 (https://github.com/PHPMailer/PHPMailer/)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Sender:  <vulcpwni@server125.web-hosting.com>
+
+A new comment on the post "New blog!" is waiting for your approval
+https://vulcanrobotics.org/off-season/index.php/2015/07/04/new-blog/
+
+Author: Bestgasrange.Drupalgardens.Com (IP: 67.17.34.111, 67.17.34.111)
+E-mail: ferne.mercer@gmail.com
+URL: http://bestgasrange.drupalgardens.com/best-slide-gas-range-top-reviews-2014
+Whois: http://whois.arin.net/rest/ip/67.17.34.111
+Comment: 
+This is really attention-grabbing, You're a very skilled blogger.
+
+I have joined your rss feed and look ahead to seeking more of your wonderful post.
+Also, I've shared your website in my social networks
+
+Approve it: https://vulcanrobotics.org/off-season/wp-admin/comment.php?action=approve&c=36
+Trash it: https://vulcanrobotics.org/off-season/wp-admin/comment.php?action=trash&c=36
+Spam it: https://vulcanrobotics.org/off-season/wp-admin/comment.php?action=spam&c=36
+Currently 35 comments are waiting for approval. Please visit the moderation panel:
+https://vulcanrobotics.org/off-season/wp-admin/edit-comments.php?comment_status=moderated
+

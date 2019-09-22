@@ -1,0 +1,49 @@
+Return-path: <>
+Envelope-to: vulcpwni@server125.web-hosting.com
+Delivery-date: Wed, 22 Jun 2016 12:20:53 -0400
+Received: from mailnull by server125.web-hosting.com with local (Exim 4.86_1)
+	id 1bFktZ-003tSm-39
+	for vulcpwni@server125.web-hosting.com; Wed, 22 Jun 2016 12:20:53 -0400
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@server125.web-hosting.com>
+To: vulcpwni@server125.web-hosting.com
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1bFktZ-003tSm-39@server125.web-hosting.com>
+Date: Wed, 22 Jun 2016 12:20:53 -0400
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  "Relaying not permitted"
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from vulcpwni by server125.web-hosting.com with local (Exim 4.86_1)
+	(envelope-from <vulcpwni@server125.web-hosting.com>)
+	id 1bFktZ-003tSh-12
+	for vulcanroboticsteam@gmail.com; Wed, 22 Jun 2016 12:20:53 -0400
+To: vulcanroboticsteam@gmail.com
+Subject: [Off-Season Blog] WordPress 4.5.3 is available. Please update!
+Date: Wed, 22 Jun 2016 16:20:52 +0000
+Return-Path: <wordpress@vulcanrobotics.org>
+From: WordPress <wordpress@vulcanrobotics.org>
+Message-ID: <939af2fffff855cd90202eb1ae45c053@vulcanrobotics.org>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.7 (https://github.com/PHPMailer/PHPMailer/)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Sender:  <vulcpwni@server125.web-hosting.com>
+
+Please update your site at https://vulcanrobotics.org/off-season to WordPress 4.5.3.
+
+Updating is easy and only takes a few moments:
+https://vulcanrobotics.org/off-season/wp-admin/update-core.php
+
+If you experience any issues or need support, the volunteers in the WordPress.org support forums may be able to help.
+https://wordpress.org/support/
+
+Keeping your site updated is important for security. It also makes the internet a safer place for you and your readers.
+
+The WordPress Team
+

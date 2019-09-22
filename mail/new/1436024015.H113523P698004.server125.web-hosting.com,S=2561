@@ -1,0 +1,55 @@
+Return-path: <>
+Envelope-to: vulcpwni@server125.web-hosting.com
+Delivery-date: Sat, 04 Jul 2015 11:33:35 -0400
+Received: from mailnull by server125.web-hosting.com with local (Exim 4.82)
+	id 1ZBPRf-002vZ7-0a
+	for vulcpwni@server125.web-hosting.com; Sat, 04 Jul 2015 11:33:35 -0400
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@server125.web-hosting.com>
+To: vulcpwni@server125.web-hosting.com
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1ZBPRf-002vZ7-0a@server125.web-hosting.com>
+Date: Sat, 04 Jul 2015 11:33:35 -0400
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  "Relaying not permitted"
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from vulcpwni by server125.web-hosting.com with local (Exim 4.82)
+	(envelope-from <vulcpwni@server125.web-hosting.com>)
+	id 1ZBPRe-002vYc-U3
+	for vulcanroboticsteam@gmail.com; Sat, 04 Jul 2015 11:33:34 -0400
+To: vulcanroboticsteam@gmail.com
+Subject: [Off-Season Blog] Please moderate: "New blog!"
+Date: Sat, 4 Jul 2015 15:33:34 +0000
+Return-Path: <wordpress@vulcanrobotics.org>
+From: WordPress <wordpress@vulcanrobotics.org>
+Message-ID: <f79c0aa34eb71bc32809e8ce90467d46@vulcanrobotics.org>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.7 (https://github.com/PHPMailer/PHPMailer/)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Sender:  <vulcpwni@server125.web-hosting.com>
+
+A new comment on the post "New blog!" is waiting for your approval
+https://vulcanrobotics.org/off-season/index.php/2015/07/04/new-blog/
+
+Author: http://bestskateboard.drupalgardens.com (IP: 173.232.96.157, 157-96-232-173.staticrdns.eonix.net)
+E-mail: mirakonig@yahoo.de
+URL: http://bestskateboard.drupalgardens.com/
+Whois: http://whois.arin.net/rest/ip/173.232.96.157
+Comment: 
+Hey There. I found your blog using msn. This is an extremely 
+well written article. I will be sure to bookmark it and come back to read more of your useful 
+information. Thanks for the post. I'll certainly return.
+
+Approve it: https://vulcanrobotics.org/off-season/wp-admin/comment.php?action=approve&c=4
+Trash it: https://vulcanrobotics.org/off-season/wp-admin/comment.php?action=trash&c=4
+Spam it: https://vulcanrobotics.org/off-season/wp-admin/comment.php?action=spam&c=4
+Currently 3 comments are waiting for approval. Please visit the moderation panel:
+https://vulcanrobotics.org/off-season/wp-admin/edit-comments.php?comment_status=moderated
+

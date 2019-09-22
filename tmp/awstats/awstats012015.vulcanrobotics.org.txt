@@ -1,0 +1,622 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201501 will be lost/reset.
+# Last config file used to build this data file was /home/vulcpwni/tmp/awstats/awstats.vulcanrobotics.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 2012                
+POS_TIME 2677                
+POS_VISITOR 12707               
+POS_DAY 17858               
+POS_DOMAIN 3489                
+POS_LOGIN 3909                
+POS_ROBOT 4064                
+POS_WORMS 4454                
+POS_EMAILSENDER 4585                
+POS_EMAILRECEIVER 4728                
+POS_SESSION 18539               
+POS_SIDER 18748               
+POS_FILETYPES 4863                
+POS_DOWNLOADS 5161                
+POS_OS 5255                
+POS_BROWSER 5433                
+POS_SCREENSIZE 6192                
+POS_UNKNOWNREFERER 6266                
+POS_UNKNOWNREFERERBROWSER 7161                
+POS_ORIGIN 7798                
+POS_SEREFERRALS 7940                
+POS_PAGEREFS 8095                
+POS_SEARCHWORDS 8454                
+POS_KEYWORDS 8606                
+POS_MISC 2340                
+POS_ERRORS 8665                
+POS_CLUSTER 3765                
+POS_SIDER_404 8794                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20150201023815 13 1934 7670068259336
+FirstTime 0
+LastTime 20150131214456
+LastUpdate 20150201071737 13 0 12 0 0
+TotalVisits 165                 
+TotalUnique 94                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 145                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 33 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 815 2167 46055654 38 69 414213
+1 202 666 9935356 17 35 146668
+2 50 106 1753284 35 49 271317
+3 7 20 818367 18 33 530861
+4 8 34 913037 18 38 535889
+5 20 35 753330 8 10 43820
+6 1 1 6691 5 10 40876
+7 2 2 31216 8 16 291483
+8 0 0 0 10 14 50511
+9 1 2 102469 15 26 353220
+10 28 66 1571070 5 8 20060
+11 7 64 2071569 8 10 56297
+12 8 26 134874 15 34 551619
+13 56 140 3227724 15 27 146103
+14 25 109 3593991 14 23 86606
+15 30 82 1392974 9 21 315006
+16 47 155 4464909 16 29 278714
+17 107 231 4282181 14 32 315397
+18 86 208 2216062 16 36 435900
+19 293 848 6732642 28 99 1009818
+20 63 191 5208879 18 40 472654
+21 31 130 2826083 12 47 604635
+22 35 93 2787538 8 25 377211
+23 49 146 3801941 8 21 69270
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 15
+us 1923 5367 99828618
+zz 25 116 3792496
+ph 5 17 620189
+gb 4 4 50969
+fr 3 3 36835
+pl 2 2 13382
+eu 2 2 13382
+jp 1 1 6678
+es 1 1 17082
+ru 1 1 17588
+lv 1 1 6691
+hr 1 1 17082
+de 1 1 6678
+th 1 1 6678
+fi 0 4 247493
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 7
+googlebot 263 6116547 20150131160158 0
+robot 50 13382 20150131222103 0
+bot[\s_+:,\.\;\/\\-] 16 289281 20150129005010 0
+ia_archiver 4 15664 20150127211850 0
+slurp 4 6678 20150123202112 0
+netcraft 4 62202 20150111125216 0
+no_user_agent 3 6733 20150127163047 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 12
+css 794 13414176 0 0
+png 934 14557379 0 0
+woff 92 411252 0 0
+txt 2 106 0 0
+otf 110 3894336 0 0
+php 784 17503130 0 0
+html 969 6686029 0 0
+js 1192 20725632 0 0
+jpg 598 27247561 0 0
+Unknown 16 142576 0 0
+svg 2 3042 0 0
+gif 29 96622 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/890A521A1776054506DB7DA2550AE610.txt 2 0 106
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 13
+blackberry 2
+linuxandroid 240
+winlong 1
+winxp 20
+unix 12
+win2000 1
+java 2
+winnt 4
+linux 93
+winvista 3169
+win7 597
+macosx 1268
+Unknown 113
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 42
+firefox28.0 3
+safari7.0 58
+msie6.0 16
+chrome40.0.2214.94 18
+chrome40.0.2214.91 274
+firefox20.0 57
+chrome34.0.1847.137 3
+android 20
+chrome28.0.1500.94 25
+chrome39.0.2171.95 732
+firefox34.0 65
+chrome36.0.1985.125 24
+iphone 84
+msie8.0 1
+chrome32.0.1700.102 1
+chrome39.0.2171.65 1
+firefox23.0 34
+safari8.0 121
+Unknown 51
+firefox11.0 1
+chrome30.0.0.0 9
+chrome41.0.2272.12 1
+blackberry 2
+chrome39.0.2171.96 11
+msie5.5 4
+firefox3.0.5 1
+chrome16.0.912.75 1
+mozilla 62
+chrome35.0.1916.153 1
+netscape5.0 1
+chrome26.0.1410.64 1
+firefox14.0.1 9
+chrome40.0.2214.89 102
+chrome30.0.1599.103 84
+msie10.0 2
+safari8.0.2 1
+chrome39.0.2171.99 2554
+firefox3.6.12 1
+firefox3.6.3 1
+chrome40.0.2214.93 33
+safari 29
+firefox35.0 1023
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 11
+\ 20150111045151
+visionutils/0.2 20150123190039
+Google_Analytics_Snippet_Validator 20150122232517
+Mozilla/5.0_(compatible;_CloudFlare-AlwaysOnline/1.0;__http://www.cloudflare.com/always-online)_AppleWebKit/534.34 20150126053928
+facebookexternalhit/1.1_(_http://www.facebook.com/externalhit_uatext.php) 20150131090402
+Mozilla/5.0_() 20150123190325
+Crowsnest/0.5_(_http://www.crowsnest.tv/) 20150123190422
+Mozilla/5.0_(compatible;_Yahoo_Link_Preview;_https://help.yahoo.com/kb/mail/yahoo-link-preview-SLN23615.html) 20150124163116
+CATExplorador/1.0beta_(sistemes_at_domini_dot_cat;_http://domini.cat/catexplorador.html) 20150104053818
+Mozilla/5.0_(compatible;_U;_AnyEvent-HTTP/2.21;__http://software.schmorp.de/pkg/AnyEvent) 20150107071150
+MobileSafari/600.1.4_CFNetwork/711.1.16_Darwin/14.0.0 20150123134920
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 9
+\ 20150111045151
+visionutils/0.2 20150123190039
+Google_Analytics_Snippet_Validator 20150122232517
+facebookexternalhit/1.1_(_http://www.facebook.com/externalhit_uatext.php) 20150131090402
+Crowsnest/0.5_(_http://www.crowsnest.tv/) 20150123190422
+Google-HTTP-Java-Client/1.17.0-rc_(gzip) 20150123190224
+python-requests/2.4.3_CPython/2.7.3_Linux/3.14.18-cloudflare 20150113044006
+python-requests/2.4.3_CPython/2.7.3_Linux/3.2.12-cloudflare 20150126053922
+CATExplorador/1.0beta_(sistemes_at_domini_dot_cat;_http://domini.cat/catexplorador.html) 20150104053818
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 225 363
+From1 1 1
+From2 2 2
+From3 34 34
+From4 1709 5122
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 7
+http://l.facebook.com/lsr.php 12 12
+https://www.facebook.com 8 8
+http://m.facebook.com 5 5
+http://l.facebook.com/l.php 4 4
+http://lm.facebook.com/l.php 3 3
+http://lm.facebook.com/lsr.php 1 1
+http://vuku.org 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+302 54 0
+206 21 438270
+500 3 753
+301 38 972
+404 240 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 67
+/components/com_jdownloads/jdownloads.js 1 -
+/sitemap.xml 1 -
+/wp-content/license.php 1 http://vulcanrobotics.org/wp-content/license.php
+/ 2 -
+/robots.txt 85 -
+/wp-content/plugins/font/css/fontsforwebstyle.css 2 -
+/admin.php 1 -
+/2014-2015_competitions/css/small-business.css 3 http://vulcanrobotics.org/2014-2015_competitions/playspace2.html
+/portal/login_page.php 1 -
+/wp-includes/class-wp-smtp-bar.php 1 http://vulcanrobotics.org/wp-includes/class-wp-smtp-bar.php
+/wp-includes/js/jquery/ui/core.min.js 1 -
+/forum/modcp/index.php 1 -
+/wordpress/wp-login.php 1 -
+/wp-includes/js/jquery/ui/draggable.min.js 1 -
+/wp-content/themes/customizr/inc/assets/js/fancybox/jquery.fancybox-1.3.4.min.css 2 -
+/wp-includes/js/jcrop/jquery.Jcrop.php 1 http://vulcanrobotics.org/wp-includes/js/jcrop/jquery.Jcrop.php
+/wp-content/plugins/showbiz/js/admin.js 1 -
+/wp-content/themes/customizr/inc/assets/css/red.min.css 2 -
+/fckeditor/editor/filemanager/browser/default/connectors/test.html 1 -
+/wp-includes/js/comment-reply.min.js 1 -
+/wp-admin/images/media-views-rtl.php 1 http://vulcanrobotics.org/wp-admin/images/media-views-rtl.php
+/bt/login_page.php 1 -
+/bug/login_page.php 1 -
+/wp-includes/js/jquery/jquery.js 1 -
+/wp-content/plugins/font/configAlt/AjaxProxy.php 1 -
+/2014-2015_competitions/includes/header.html 2 http://vulcanrobotics.org/2014-2015_competitions/playspace2.html
+/forums/modcp/index.php 1 -
+/vb/modcp/index.php 1 -
+/cgi-bin/ 1 http://vulcanrobotics.org/
+/issuetracker/login_page.php 1 -
+/vbulletin/modcp/index.php 1 -
+/blog/wp-login.php 1 -
+/wp-content/plugins/font/AjaxProxy.php 3 -
+/admin/ 1 http://vulcanrobotics.org/admin/
+/domainsigma_removal_3df02acfbbe39a9c25bf473b1f8a5dad41a1dc6e.html 1 -
+/wp-content/uploads/2009/01/topper.php 1 http://vulcanrobotics.org/wp-content/uploads/2009/01/topper.php
+/wp-content/themes/customizr/style.css 2 -
+/wp-admin/ms-head.php 1 http://vulcanrobotics.org/wp-admin/ms-head.php
+/bugtracker/login_page.php 1 -
+/2014-2015_competitions/our-team.html 1 http://vulcanrobotics.org/2014-2015_competitions/playspace2.html
+/projects/login_page.php 1 -
+HTTP/1.1 3 -
+/2014-2015_competitions/images/website-logo-128.png 1 http://vulcanrobotics.org/2014-2015_competitions/playspace2.html
+/cc/modcp/index.php 1 -
+/wp/ 1 -
+/wp-includes/ms-post.php 1 http://vulcanrobotics.org/wp-includes/ms-post.php
+/wp-includes/js/jquery/ui/mouse.min.js 1 -
+/modcp/index.php 1 -
+/login_page.php 1 -
+/2014-2015_competitions/js/jquery.js 3 http://vulcanrobotics.org/2014-2015_competitions/playspace2.html
+/bugs/login_page.php 1 -
+/wp-content/plugins/font/js/jquery.fcarousel.min.js 1 -
+/2014-2015_competitions/js/bootstrap.min.js 5 http://vulcanrobotics.org/2014-2015_competitions/playspace2.html
+/wp-content/plugins/revslider/js/settings.js 1 -
+/2014-2015_competitions/playspace2.html 1 http://vulcanrobotics.org/2014-2015.html
+/administrator/index.php 1 -
+/wp-content/plugins/font/css/start/jquery-ui-1.8.14.custom.css 2 -
+/our-team.html 6 http://vulcanrobotics.org/
+/2014-2015_competitions/includes/footer.html 2 http://vulcanrobotics.org/2014-2015_competitions/playspace2.html
+/wp-content/plugins/font/css/colorpicker.css 2 -
+/wp-includes/js/jquery/ui/slider.min.js 1 -
+/wp-content/uploads/_wp_cache.php 1 http://vulcanrobotics.org/wp-content/uploads/_wp_cache.php
+/wp-content/plugins/font/js/jquery.fontPlugin.js 1 -
+/wp-content/plugins/akismet/_inc/form.js 1 -
+/favicon.png 62 -
+/2014-2015_competitions/css/bootstrap.min.css 3 http://vulcanrobotics.org/2014-2015_competitions/playspace2.html
+/wp-includes/class-wp-xmlrpc.php 1 http://vulcanrobotics.org/wp-includes/class-wp-xmlrpc.php
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 145
+76.14.18.31 958 2462 39754814 20150129205637
+173.228.12.179 370 941 17742977 20150126223301
+162.230.115.40 258 955 10822601 20150127012207
+209.188.131.198 65 260 8234225 20150128151846
+67.170.217.186 39 142 3345850 20150124212520
+199.27.128.250 21 23 52074 20150123190452
+172.56.39.0 18 58 1678972 20150123105641
+208.54.5.179 13 39 1217190 20150123135317
+69.58.178.58 11 11 159668 20150110190712
+73.170.141.15 11 27 715979 20150123013404
+67.180.167.240 8 23 717473 20150123201822
+173.228.12.185 8 18 83114 20150130021949
+155.33.121.238 7 22 708399 20150123234121
+172.56.38.114 7 58 2113524 20150116214806
+208.54.4.239 7 24 725784 20150123194054
+50.184.253.87 7 23 720364 20150124021057
+128.12.253.5 6 20 697744 20150125173057
+73.15.106.129 6 19 636313 20150124001656
+108.193.4.192 6 16 519444 20150123192912
+162.244.13.104 6 6 52724 20150131214456
+108.201.85.250 6 17 620107 20150130034420
+98.207.0.112 5 17 620466 20150123192611
+169.229.98.30 5 17 620466 20150123192421
+104.244.24.99 5 17 620189 20150127194457
+173.245.54.249 5 5 5890 20150126053928
+173.209.212.151 0 1 2609 
+54.92.140.218 1 1 17082 20150112073609
+5.61.35.38 1 1 17082 20150105020347
+173.252.74.119 0 1 95791 
+66.220.152.119 1 1 8911 20150122212756
+173.252.73.113 1 2 112462 20150114004152
+66.249.80.40 0 6 249402 
+173.245.56.242 1 2 100590 20150126053925
+173.252.114.116 0 2 385201 
+87.98.167.75 2 2 19753 20150112130730
+204.124.183.98 3 3 20073 20150130135643
+66.220.156.112 0 1 95791 
+66.220.158.116 0 1 95791 
+173.252.100.119 0 1 95791 
+54.204.112.36 1 1 6678 20150124031738
+99.6.134.220 4 11 431511 20150123191639
+199.27.133.22 1 1 0 20150126053922
+136.169.10.10 1 1 6691 20150128154929
+23.95.43.104 1 1 17588 20150115101456
+110.78.153.228 1 1 6678 20150123090418
+173.209.212.244 1 4 112878 20150124002117
+74.112.131.246 1 1 6678 20150123190325
+91.229.229.46 1 1 17082 20150104151957
+173.245.56.237 0 1 10204 
+173.252.110.119 0 1 95791 
+173.252.114.118 0 1 158718 
+23.95.52.61 3 3 51246 20150111045151
+173.252.110.118 0 1 95791 
+173.252.74.114 0 2 191582 
+173.252.80.115 0 1 95791 
+173.245.56.246 0 1 36840 
+66.220.156.119 0 2 191582 
+173.209.212.132 2 4 217139 20150124002117
+173.209.212.209 1 2 97937 20150124002138
+173.209.212.237 0 1 2609 
+173.245.54.245 0 1 2872 
+173.209.212.211 1 2 159075 20150124002138
+173.252.73.115 0 2 191582 
+173.209.212.243 1 2 120176 20150124002136
+199.27.128.244 0 2 95785 
+173.252.120.116 0 1 95791 
+76.102.66.197 4 11 431511 20150124001949
+166.216.157.48 4 9 416576 20150123213750
+173.209.212.147 0 1 95785 
+98.138.219.13 0 1 95791 
+46.158.108.144 1 1 17588 20150120234318
+69.171.228.116 0 1 158718 
+193.106.33.67 1 1 6691 20150127210315
+173.252.73.117 0 1 95791 
+173.252.79.114 0 1 95791 
+23.96.208.137 1 1 6678 20150123190234
+173.245.56.244 0 1 33620 
+66.249.80.31 3 10 280050 20150123234031
+173.199.124.98 1 1 17082 20150109152416
+54.161.21.119 0 1 95791 
+173.252.73.112 1 1 2671 20150114001301
+66.220.158.115 0 1 95791 
+173.209.212.198 1 2 4761 20150124002155
+89.69.56.243 2 2 13382 20150128193629
+74.6.254.134 1 1 0 20150124163116
+173.209.212.220 1 4 110551 20150124002155
+192.99.40.137 0 4 247493 
+184.83.36.239 1 1 2671 20150102220851
+66.220.156.115 0 1 95791 
+199.27.128.222 0 1 6773 
+173.245.56.249 1 2 39806 20150126053926
+5.61.39.15 1 1 17082 20150107043633
+65.52.240.20 1 1 6678 20150123190150
+54.161.106.59 1 1 6691 20150127061657
+17.142.152.121 1 1 6678 20150123190323
+69.171.228.119 0 1 160229 
+173.209.212.225 1 3 105658 20150124002154
+173.252.120.119 0 1 95791 
+54.147.163.42 1 1 6678 20150123190236
+173.245.54.242 1 1 6691 20150126053927
+173.245.54.241 0 1 35601 
+173.252.80.119 0 1 95791 
+193.106.35.213 1 1 6691 20150126005036
+173.245.54.246 0 1 2609 
+76.14.20.210 4 14 0 20150123201909
+37.130.226.90 2 2 16805 20150107071150
+173.245.56.240 1 2 47277 20150126053925
+66.249.83.141 0 1 95791 
+5.56.63.54 1 1 17082 20150104053818
+54.92.32.156 1 1 6678 20150123190422
+54.241.198.78 2 2 0 20150123190224
+68.0.77.227 1 1 6678 20150123233711
+195.154.181.160 1 1 17082 20150104221710
+173.209.212.212 1 3 44941 20150124002138
+173.245.54.248 0 1 95791 
+173.245.56.247 1 2 102483 20150126053924
+66.220.152.117 0 1 95791 
+199.27.128.210 0 2 95791 
+199.27.128.207 2 2 63284 20150123190452
+66.220.156.118 0 2 191582 
+66.249.84.153 1 1 353 20150122232517
+24.6.250.2 5 17 620189 20150130000501
+173.245.54.244 0 1 8162 
+150.70.97.121 1 1 6678 20150123190404
+199.27.133.18 0 2 5187 
+63.225.4.151 5 12 440585 20150124163255
+173.245.56.234 1 1 6691 20150126053923
+173.209.212.229 1 2 120176 20150124002153
+66.249.80.22 4 8 196332 20150123233947
+54.165.221.252 1 1 6678 20150123190223
+173.245.54.239 5 7 163215 20150126053927
+46.4.48.68 1 1 6678 20150123202701
+173.245.56.239 0 1 35235 
+173.209.212.208 1 3 104305 20150124002117
+108.162.209.53 1 1 0 20150126053921
+66.220.158.114 0 1 95791 
+199.27.128.226 0 2 8162 
+66.220.158.112 0 1 95791 
+173.252.114.117 0 1 68790 
+108.162.209.69 3 29 838031 20150113044010
+99.51.76.100 4 11 431511 20150123232926
+66.220.152.115 1 2 86378 20150122222507
+173.252.73.116 0 2 191582 
+199.27.128.206 0 2 113498 
+173.252.73.119 0 1 95791 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 26
+20150102 8 58 1677400 2
+20150104 4 4 53917 4
+20150105 1 1 17082 1
+20150107 2 2 31216 2
+20150108 2 27 825232 1
+20150109 1 1 17082 1
+20150110 12 12 176750 2
+20150111 3 3 51246 1
+20150112 2 2 19753 2
+20150113 3 29 838031 1
+20150114 921 2472 51223758 14
+20150115 90 124 1477623 5
+20150116 11 76 2203962 4
+20150118 5 53 2088368 1
+20150120 1 1 17588 1
+20150121 1 1 19282 1
+20150122 28 129 3134731 8
+20150123 434 1188 21732702 43
+20150124 89 258 6635935 25
+20150125 211 717 4005444 6
+20150126 58 136 2768700 18
+20150127 33 88 1790601 8
+20150128 9 21 646953 5
+20150129 21 56 1165245 4
+20150130 20 61 1960758 4
+20150131 1 2 102482 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 14
+5mn-15mn 6
+30s-2mn 13
+15mn-30mn 3
+2mn-5mn 9
+0s-30s 112
+30mn-1h 8
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 37
+/wp-admin/admin-ajax.php 542 1797857 2 6
+/ 391 5101768 127 68
+/includes/header.html 172 142032 5 13
+/includes/footer.html 169 77748 4 10
+/fonts/bebas-neue.otf 108 3797040 6 10
+/our-team.html 96 252919 5 16
+/2014-2015.html 64 224704 1 8
+/wp-content/themes/customizr/inc/assets/css/fonts/fonts/genericons-regular-webfont.woff 58 294008 0 9
+/wp-admin/load-scripts.php 53 3618366 0 0
+/wp-admin/post.php 35 2604898 0 0
+/wp-content/themes/customizr/inc/assets/css/fonts/fonts/entypo.woff 33 109580 0 0
+/construction.html 31 158004 1 7
+/wp-admin/nav-menus.php 29 1738877 0 0
+/playspace2.html 26 76447 0 9
+/wp-admin/async-upload.php 21 31833 0 0
+/wp-admin/load-styles.php 18 1785050 0 0
+/wp-admin/edit.php 18 711694 0 0
+/cpanel 16 142576 5 5
+/wp-admin/upload.php 16 1106275 0 0
+/wp-admin/ 14 640257 3 0
+/wp-admin/customize.php 14 2555590 0 0
+/wp-admin/themes.php 8 333030 0 0
+/wp-admin/index.php 6 275556 0 0
+/wp-login.php 6 16026 6 4
+/2014-2015_competitions/playspace2.html 5 11878 0 0
+/wp-admin/media-new.php 1 25520 0 0
+/wp-admin/post-new.php 3 329632 0 0
+/wp-admin/users.php 2 68330 0 0
+/wp-includes/js/tinymce/skins/lightgray/fonts/tinymce.woff 1 7664 0 0
+/wp-admin/tools.php 1 24571 0 0
+/wp-admin/user-new.php 1 25919 0 0
+/BebasNeue.otf 2 97296 0 0
+/wp-admin/profile.php 3 103692 0 0
+/wp-includes/js/tinymce/wp-tinymce.php 2 272394 0 0
+/ftp_uploader/ 1 272 0 0
+/wp-content/plugins/font/AjaxProxy.php 2 2179 0 0
+/wp-admin/update-core.php 3 75841 0 0
+END_SIDER

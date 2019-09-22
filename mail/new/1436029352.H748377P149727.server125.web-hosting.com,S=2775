@@ -1,0 +1,58 @@
+Return-path: <>
+Envelope-to: vulcpwni@server125.web-hosting.com
+Delivery-date: Sat, 04 Jul 2015 13:02:32 -0400
+Received: from mailnull by server125.web-hosting.com with local (Exim 4.82)
+	id 1ZBQpk-000cv0-Lp
+	for vulcpwni@server125.web-hosting.com; Sat, 04 Jul 2015 13:02:32 -0400
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@server125.web-hosting.com>
+To: vulcpwni@server125.web-hosting.com
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1ZBQpk-000cv0-Lp@server125.web-hosting.com>
+Date: Sat, 04 Jul 2015 13:02:32 -0400
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  "Relaying not permitted"
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from vulcpwni by server125.web-hosting.com with local (Exim 4.82)
+	(envelope-from <vulcpwni@server125.web-hosting.com>)
+	id 1ZBQpk-000csh-Jn
+	for vulcanroboticsteam@gmail.com; Sat, 04 Jul 2015 13:02:32 -0400
+To: vulcanroboticsteam@gmail.com
+Subject: [Off-Season Blog] Please moderate: "New blog!"
+Date: Sat, 4 Jul 2015 17:02:32 +0000
+Return-Path: <wordpress@vulcanrobotics.org>
+From: WordPress <wordpress@vulcanrobotics.org>
+Message-ID: <043a668261c08b2dd2ec82a4e3503d9c@vulcanrobotics.org>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.7 (https://github.com/PHPMailer/PHPMailer/)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Sender:  <vulcpwni@server125.web-hosting.com>
+
+A new comment on the post "New blog!" is waiting for your approval
+https://vulcanrobotics.org/off-season/index.php/2015/07/04/new-blog/
+
+Author: Lawnmowerhq.drupalgardens.com (IP: 5.255.91.213, mx213.crabapplecake.com)
+E-mail: orenmacomber@whale-mail.com
+URL: http://lawnmowerhq.drupalgardens.com/best-weed-wacker-reviews
+Whois: http://whois.arin.net/rest/ip/5.255.91.213
+Comment: 
+First off I would like to say awesome blog! I had a quick question which I'd like to ask if you do 
+not mind. I was curious to know how you center yourself and clear your mind before writing.
+I have had difficulty clearing my thoughts in getting my ideas out.
+I do enjoy writing but it just seems like the first 
+10 to 15 minutes are usually wasted just trying to figure out how to 
+begin. Any suggestions or hints? Cheers!
+
+Approve it: https://vulcanrobotics.org/off-season/wp-admin/comment.php?action=approve&c=5
+Trash it: https://vulcanrobotics.org/off-season/wp-admin/comment.php?action=trash&c=5
+Spam it: https://vulcanrobotics.org/off-season/wp-admin/comment.php?action=spam&c=5
+Currently 4 comments are waiting for approval. Please visit the moderation panel:
+https://vulcanrobotics.org/off-season/wp-admin/edit-comments.php?comment_status=moderated
+

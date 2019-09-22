@@ -1,0 +1,56 @@
+Return-path: <>
+Envelope-to: vulcpwni@server125.web-hosting.com
+Delivery-date: Sat, 04 Jul 2015 13:03:50 -0400
+Received: from mailnull by server125.web-hosting.com with local (Exim 4.82)
+	id 1ZBQr0-000nek-Lj
+	for vulcpwni@server125.web-hosting.com; Sat, 04 Jul 2015 13:03:50 -0400
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@server125.web-hosting.com>
+To: vulcpwni@server125.web-hosting.com
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1ZBQr0-000nek-Lj@server125.web-hosting.com>
+Date: Sat, 04 Jul 2015 13:03:50 -0400
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  "Relaying not permitted"
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from vulcpwni by server125.web-hosting.com with local (Exim 4.82)
+	(envelope-from <vulcpwni@server125.web-hosting.com>)
+	id 1ZBQr0-000neD-JK
+	for vulcanroboticsteam@gmail.com; Sat, 04 Jul 2015 13:03:50 -0400
+To: vulcanroboticsteam@gmail.com
+Subject: [Off-Season Blog] Please moderate: "New blog!"
+Date: Sat, 4 Jul 2015 17:03:50 +0000
+Return-Path: <wordpress@vulcanrobotics.org>
+From: WordPress <wordpress@vulcanrobotics.org>
+Message-ID: <4484b32a55ab9fc8b06fe1e539993dac@vulcanrobotics.org>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.7 (https://github.com/PHPMailer/PHPMailer/)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Sender:  <vulcpwni@server125.web-hosting.com>
+
+A new comment on the post "New blog!" is waiting for your approval
+https://vulcanrobotics.org/off-season/index.php/2015/07/04/new-blog/
+
+Author: Frances (IP: 5.255.91.213, mx213.crabapplecake.com)
+E-mail: alejandrinanewdegate@mailftp.com
+URL: http://vacuumhq.drupalgardens.com/best-handheld-vacuum-reviews
+Whois: http://whois.arin.net/rest/ip/5.255.91.213
+Comment: 
+I'm curious to find out what blog system you happen to be using?
+I'm having some small security problems with my latest blog and I'd like to find something more safe.
+
+Do you have any recommendations?
+
+Approve it: https://vulcanrobotics.org/off-season/wp-admin/comment.php?action=approve&c=6
+Trash it: https://vulcanrobotics.org/off-season/wp-admin/comment.php?action=trash&c=6
+Spam it: https://vulcanrobotics.org/off-season/wp-admin/comment.php?action=spam&c=6
+Currently 5 comments are waiting for approval. Please visit the moderation panel:
+https://vulcanrobotics.org/off-season/wp-admin/edit-comments.php?comment_status=moderated
+

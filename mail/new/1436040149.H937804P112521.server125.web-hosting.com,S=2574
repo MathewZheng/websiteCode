@@ -1,0 +1,55 @@
+Return-path: <>
+Envelope-to: vulcpwni@server125.web-hosting.com
+Delivery-date: Sat, 04 Jul 2015 16:02:29 -0400
+Received: from mailnull by server125.web-hosting.com with local (Exim 4.82)
+	id 1ZBTdt-000T9S-FA
+	for vulcpwni@server125.web-hosting.com; Sat, 04 Jul 2015 16:02:29 -0400
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@server125.web-hosting.com>
+To: vulcpwni@server125.web-hosting.com
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1ZBTdt-000T9S-FA@server125.web-hosting.com>
+Date: Sat, 04 Jul 2015 16:02:29 -0400
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  "Relaying not permitted"
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from vulcpwni by server125.web-hosting.com with local (Exim 4.82)
+	(envelope-from <vulcpwni@server125.web-hosting.com>)
+	id 1ZBTdt-000T3m-38
+	for vulcanroboticsteam@gmail.com; Sat, 04 Jul 2015 16:02:29 -0400
+To: vulcanroboticsteam@gmail.com
+Subject: [Off-Season Blog] Please moderate: "New blog!"
+Date: Sat, 4 Jul 2015 20:02:28 +0000
+Return-Path: <wordpress@vulcanrobotics.org>
+From: WordPress <wordpress@vulcanrobotics.org>
+Message-ID: <2e8a981f14570fd91e857492334a6dd4@vulcanrobotics.org>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.7 (https://github.com/PHPMailer/PHPMailer/)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Sender:  <vulcpwni@server125.web-hosting.com>
+
+A new comment on the post "New blog!" is waiting for your approval
+https://vulcanrobotics.org/off-season/index.php/2015/07/04/new-blog/
+
+Author: flexbelt.drupalgardens.com (IP: 45.62.55.155, 45.62.55.155)
+E-mail: gerard.wingfield@gmail.com
+URL: http://flexbelt.drupalgardens.com
+Whois: http://whois.arin.net/rest/ip/45.62.55.155
+Comment: 
+Today, while I was at work, my cousin stole my iPad and tested to see if it 
+can survive a thirty foot drop, just so she can be a youtube sensation. My iPad is now broken and she has 83 views.
+I know this is totally off topic but I had to share it with someone!
+
+Approve it: https://vulcanrobotics.org/off-season/wp-admin/comment.php?action=approve&c=13
+Trash it: https://vulcanrobotics.org/off-season/wp-admin/comment.php?action=trash&c=13
+Spam it: https://vulcanrobotics.org/off-season/wp-admin/comment.php?action=spam&c=13
+Currently 12 comments are waiting for approval. Please visit the moderation panel:
+https://vulcanrobotics.org/off-season/wp-admin/edit-comments.php?comment_status=moderated
+

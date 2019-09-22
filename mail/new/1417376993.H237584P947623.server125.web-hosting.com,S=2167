@@ -1,0 +1,51 @@
+Return-path: <>
+Envelope-to: vulcpwni@server125.web-hosting.com
+Delivery-date: Sun, 30 Nov 2014 14:49:53 -0500
+Received: from mailnull by server125.web-hosting.com with local (Exim 4.82)
+	id 1XvAVF-003yW2-4z
+	for vulcpwni@server125.web-hosting.com; Sun, 30 Nov 2014 14:49:53 -0500
+X-Failed-Recipients: team@vulcanrobotics.org
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@server125.web-hosting.com>
+To: vulcpwni@server125.web-hosting.com
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1XvAVF-003yW2-4z@server125.web-hosting.com>
+Date: Sun, 30 Nov 2014 14:49:53 -0500
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  team@vulcanrobotics.org
+    SMTP error from remote mail server after RCPT TO:<team@vulcanrobotics.org>:
+    host aspmx.l.google.com [74.125.196.26]: 550-5.1.1 The email account that you tried to reach does not exist. Please try
+    550-5.1.1 double-checking the recipient's email address for typos or
+    550-5.1.1 unnecessary spaces. Learn more at
+    550 5.1.1 http://support.google.com/mail/bin/answer.py?answer=6596 p67si7126636ykf.149 - gsmtp
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <vulcpwni@server125.web-hosting.com>
+Received: from vulcpwni by server125.web-hosting.com with local (Exim 4.82)
+	(envelope-from <vulcpwni@server125.web-hosting.com>)
+	id 1XvAVE-003yVO-Gn
+	for team@vulcanrobotics.org; Sun, 30 Nov 2014 14:49:52 -0500
+To: team@vulcanrobotics.org
+Subject: [Vulcan Robotics] New User Registration
+Date: Sun, 30 Nov 2014 19:49:52 +0000
+From: WordPress <wordpress@vulcanrobotics.org>
+Message-ID: <0e8d2e64e11352db5cd5204588a433a1@vulcanrobotics.org>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.7 (https://github.com/PHPMailer/PHPMailer/)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Sender:  <vulcpwni@server125.web-hosting.com>
+
+New user registration on your site Vulcan Robotics:
+
+Username: bobowitz
+
+E-mail: bobowitzbob@gmail.com
+

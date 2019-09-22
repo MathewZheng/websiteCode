@@ -1,0 +1,47 @@
+Return-path: <>
+Envelope-to: vulcpwni@server125.web-hosting.com
+Delivery-date: Tue, 04 Aug 2015 15:07:13 -0400
+Received: from mailnull by server125.web-hosting.com with local (Exim 4.85)
+	id 1ZMhYO-002eRc-U6
+	for vulcpwni@server125.web-hosting.com; Tue, 04 Aug 2015 15:07:12 -0400
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@server125.web-hosting.com>
+To: vulcpwni@server125.web-hosting.com
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1ZMhYO-002eRc-U6@server125.web-hosting.com>
+Date: Tue, 04 Aug 2015 15:07:12 -0400
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  "Relaying not permitted"
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from vulcpwni by server125.web-hosting.com with local (Exim 4.85)
+	(envelope-from <vulcpwni@server125.web-hosting.com>)
+	id 1ZMhYO-002eRU-Pm
+	for vulcanroboticsteam@gmail.com; Tue, 04 Aug 2015 15:07:12 -0400
+To: vulcanroboticsteam@gmail.com
+Subject: [Off-Season Blog] Your site has updated to WordPress 4.2.4
+Date: Tue, 4 Aug 2015 19:07:12 +0000
+Return-Path: <wordpress@vulcanrobotics.org>
+From: WordPress <wordpress@vulcanrobotics.org>
+Message-ID: <9dbb1037f871468571d15aaa28bfb8d4@vulcanrobotics.org>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.7 (https://github.com/PHPMailer/PHPMailer/)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Sender:  <vulcpwni@server125.web-hosting.com>
+
+Howdy! Your site at https://vulcanrobotics.org/off-season has been updated automatically to WordPress 4.2.4.
+
+No further action is needed on your part. For more on version 4.2.4, see the About WordPress screen:
+https://vulcanrobotics.org/off-season/wp-admin/about.php
+
+If you experience any issues or need support, the volunteers in the WordPress.org support forums may be able to help.
+https://wordpress.org/support/
+
+The WordPress Team
+

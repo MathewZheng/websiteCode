@@ -1,0 +1,39 @@
+head	1.2;
+access;
+symbols;
+locks
+	vulcpwni:1.2; strict;
+comment	@# @;
+
+
+1.2
+date	2014.11.19.05.32.37;	author vulcpwni;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2014.11.19.05.32.37;	author vulcpwni;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.2
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@team:$6$zSOjWCx06APKTY8Y$2k8jxYxyzC35EgMZwe9Tum1C96CvaD6MA44.JxjXJt7cWgkDpYxRhBcjxdAcJ21In2U4Oawobn0LifhqSBbUQ.:16393::::::
+@
+
+
+1.1
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d1 1
+@

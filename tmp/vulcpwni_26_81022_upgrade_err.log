@@ -1,0 +1,16 @@
+
+NOTICE Undefined index: name /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 3643
+NOTICE Undefined index: min /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 8008
+NOTICE Undefined index: pgtimezone /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 68
+WARNING
+NOTICE Undefined index: min /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 8008
+NOTICE Undefined offset: 1 /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 3729
+NOTICE Undefined offset: 1 /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 3733
+NOTICE Undefined offset: 1 /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 3737
+NOTICE Undefined index: name /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/hooks/pre_upgrade_cagefs.php 58
+NOTICE Undefined index: name /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/hooks/pre_upgrade_cagefs.php 70
+NOTICE Undefined index: name /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/hooks/pre_upgrade_cagefs.php 84
+WARNING
+WARNING
+WARNING
+WARNING

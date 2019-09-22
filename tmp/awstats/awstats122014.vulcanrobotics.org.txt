@@ -1,0 +1,356 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201412 will be lost/reset.
+# Last config file used to build this data file was /home/vulcpwni/tmp/awstats/awstats.vulcanrobotics.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 2012                
+POS_TIME 2690                
+POS_VISITOR 7870                
+POS_DAY 8901                
+POS_DOMAIN 3419                
+POS_LOGIN 3728                
+POS_ROBOT 3883                
+POS_WORMS 4234                
+POS_EMAILSENDER 4365                
+POS_EMAILRECEIVER 4508                
+POS_SESSION 9379                
+POS_SIDER 9548                
+POS_FILETYPES 4643                
+POS_DOWNLOADS 4880                
+POS_OS 4973                
+POS_BROWSER 5093                
+POS_SCREENSIZE 5610                
+POS_UNKNOWNREFERER 5684                
+POS_UNKNOWNREFERERBROWSER 6056                
+POS_ORIGIN 6241                
+POS_SEREFERRALS 6376                
+POS_PAGEREFS 6531                
+POS_SEARCHWORDS 6679                
+POS_KEYWORDS 6831                
+POS_MISC 2354                
+POS_ERRORS 6890                
+POS_CLUSTER 3584                
+POS_SIDER_404 7008                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20150101043125 27 4866 16517243283734
+FirstTime 20141201172442
+LastTime 20141231191704
+LastUpdate 20150101070740 27 0 26 0 0
+TotalVisits 33                  
+TotalUnique 24                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 24                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 12 12 176170 22 36 382910
+1 0 0 0 5 15 561617
+2 1 2 39347 15 29 326305
+3 1 1 17032 18 22 156704
+4 2 2 18127 7 10 34495
+5 1 1 2679 15 20 115218
+6 4 30 836429 15 24 283727
+7 0 0 0 9 34 897336
+8 1 2 18972 10 14 88043
+9 7 8 92023 11 31 453429
+10 2 4 39024 16 68 1552726
+11 2 2 18077 9 25 366920
+12 8 34 931604 24 70 965242
+13 5 33 897530 14 44 782655
+14 3 3 51289 11 21 283999
+15 0 0 0 20 46 548560
+16 0 0 0 12 14 51447
+17 9 84 2525148 23 36 142934
+18 9 36 952630 16 30 226703
+19 1 1 17082 13 31 506880
+20 4 4 34064 14 27 323246
+21 7 41 789700 8 30 574076
+22 6 6 102492 16 32 450702
+23 0 0 0 8 21 241112
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 7
+us 57 278 7127164
+pl 16 16 273212
+be 5 5 54022
+fi 4 4 68228
+de 1 1 17032
+gb 1 1 17082
+ru 1 1 2679
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 6
+googlebot 404 10040752 20141231203618 0
+robot 65 0 20141231191701 0
+bot[\s_+:,\.\;\/\\-] 8 183235 20141228134147 0
+netcraft 3 44970 20141212175519 0
+no_user_agent 2 17032 20141201172523 0
+crawl 1 17032 20141204033531 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 10
+css 56 1800864 0 0
+png 2 25598 0 0
+ttf 5 90780 0 0
+woff 8 101072 0 0
+php 4 5418 0 0
+html 66 1031268 0 0
+js 135 3578077 0 0
+xml 2 2090 0 0
+jpg 21 895020 0 0
+gif 7 29232 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/890A521A1776054506DB7DA2550AE610.txt 1 0 53
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 8
+blackberry 1
+winlong 2
+winxp 7
+winvista 29
+linux 94
+win7 75
+macosx 30
+Unknown 68
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 31
+firefox28.0 4
+firefox32.0 1
+msie6.0 1
+blackberry 1
+firefox17.0 2
+chrome23.0.1271.64 1
+chrome34.0.1847.137 2
+firefox7.0 1
+chrome39.0.2171.95 27
+firefox34.0 54
+curl 3
+lynx 2
+opera9.80 2
+chrome23.0.1271.95 1
+firefox3.0.3 1
+msie8.0 1
+chrome19.1.1084.5409 1
+mozilla 56
+chrome39.0.2171.65 1
+netscape5.0 3
+msie7.0 1
+firefox14.0.1 10
+firefox23.0 1
+firefox16.0 3
+firefox3.5.9 2
+chrome11.0.696.71 2
+Unknown 7
+firefox27.0 1
+safari 49
+chrome39.0.2171.71 64
+chrome21.0.1180.89 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 5
+Mozilla/5.0_(compatible;_CloudFlare-AlwaysOnline/1.0;__http://www.cloudflare.com/always-online)_AppleWebKit/534.34 20141225135330
+Mozilla/5.0 20141231115146
+curl/7.35.0 20141213030348
+Lynx/2.8.8pre.4_libwww-FM/2.14_SSL-MM/1.4.1_GNUTLS/2.12.23 20141205201621
+Softaculous 20141219091706
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+python-requests/2.4.3_CPython/2.7.3_Linux/3.14.18-cloudflare 20141225135326
+Softaculous 20141219091706
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 47 55
+From1 7 7
+From2 5 5
+From3 0 0
+From4 26 239
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 5 5
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+302 1 0
+500 49 12299
+404 122 0
+301 66 1666
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 10
+/wp-content/plugins/photosmash-galleries/readme.txt 1 -
+/ 2 http://whois.domaintools.com/vulcanrobotics.org
+/wp-content/plugins/revslider/release_log.txt 1 http://vulcanrobotics.org/wp-content/plugins/revslider/release_log.txt
+/wp-content/plugins/slideshow-gallery/readme.txt 1 -
+/robots.txt 106 -
+/wp-content/plugins/wpdatatables/assets/js/wpdatatables/wpdatatables.min.js 1 -
+/cgi-bin/ 6 -
+/wp-content/plugins/google-document-embedder/readme.txt 2 -
+/wp-content/plugins/wp-symposium/readme.txt 1 -
+/wp-content/plugins/download-manager/readme.txt 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 24
+31.11.237.31 12 12 204984 20141221223233
+69.58.178.58 11 11 159138 20141211005712
+162.230.115.40 11 63 1777862 20141222171130
+38.99.82.191 9 51 837024 20141231115146
+108.162.209.69 6 58 1674418 20141225135330
+192.64.117.175 5 5 54022 20141219091706
+38.127.167.46 4 4 34064 20141205201621
+192.99.40.137 4 4 68228 20141220143538
+23.92.22.100 3 3 51096 20141213030348
+173.228.12.179 2 27 825232 20141224172908
+209.188.131.198 2 27 823588 20141201172444
+50.161.20.192 2 27 825275 20141227124555
+95.160.19.111 2 2 34064 20141212100244
+89.69.56.179 2 2 34164 20141224135915
+130.211.85.67 1 1 17032 20141215215706
+96.227.124.38 1 1 17082 20141231092103
+166.78.181.113 1 1 17032 20141214004500
+198.204.253.98 1 1 17082 20141231191704
+93.179.69.60 1 1 2679 20141205050421
+66.7.245.226 1 1 17125 20141222141502
+54.242.16.38 1 1 17082 20141225044309
+37.130.226.90 1 1 17082 20141230132507
+46.252.24.141 1 1 17032 20141209081202
+198.101.238.203 1 1 17032 20141213173315
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 19
+20141201 2 27 823588 1
+20141205 7 7 70807 3
+20141208 3 29 836387 1
+20141209 1 1 17032 1
+20141211 11 11 159138 1
+20141212 3 3 51096 2
+20141213 3 3 51096 2
+20141214 1 1 17032 1
+20141215 1 1 17032 1
+20141219 5 5 54022 1
+20141220 2 2 34164 1
+20141221 21 48 1157614 3
+20141222 3 28 842357 2
+20141223 1 1 17082 1
+20141224 3 28 842314 2
+20141225 4 30 855113 2
+20141227 2 27 825275 1
+20141230 7 41 789750 2
+20141231 5 13 98520 5
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 3
+30s-2mn 1
+15mn-30mn 1
+0s-30s 31
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 8
+/ 66 1031268 29 21
+/wp-content/themes/customizr/inc/assets/css/fonts/fonts/genericons-regular-webfont.woff 7 79156 0 6
+/wp-content/themes/customizr/inc/assets/css/fonts/fonts/genericons-regular-webfont.ttf 5 90780 0 1
+/wp-admin/upgrade.php 2 2697 0 0
+/wp-includes/wlwmanifest.xml 2 2090 2 2
+/wp-content/themes/customizr/inc/assets/css/fonts/fonts/entypo.woff 1 21916 0 1
+/xmlrpc.php 1 42 1 1
+/wp-login.php 1 2679 1 1
+END_SIDER
